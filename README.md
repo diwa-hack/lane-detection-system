@@ -163,7 +163,7 @@ Tested on TuSimple benchmark dataset:
 
 ## 🎯 Demo Results
 
-### Input Image
+### Interface
 ![Original Image](images/demo.jpg)
 
 
