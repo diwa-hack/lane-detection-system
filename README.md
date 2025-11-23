@@ -111,6 +111,13 @@ Place your trained model checkpoints in the `checkpoints/` directory:
 - `polylane_best.pth`
 - `ultrafast_best.pth`
 
+# Model Checkpoints
+
+Download trained models from: **[Google Drive](https://drive.google.com/drive/folders/1_uanq335F_q2guGe3Wkt6av1G178ovuw?usp=sharing)**
+
+Place the downloaded files in this directory.
+
+
 ### 🎮 Running the Application
 
 ```bash
