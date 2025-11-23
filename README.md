@@ -161,6 +161,12 @@ Tested on TuSimple benchmark dataset:
 
 *Tested on NVIDIA RTX 3080 and Intel i7-10700K*
 
+## 🎯 Demo Results
+
+### Input Image
+![Original Image](images/demo.jpg)
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
