@@ -184,9 +184,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**Sunny Diwa** - [diwasunnyhack519@gmail.com](mailto:diwasunnyhack519@gmail.com)
 
-Project Link: [https://github.com/yourusername/lane-detection-system](https://github.com/yourusername/lane-detection-system)
+Project Link: [https://github.com/yourusername/lane-detection-system](https://github.com/diwa-hack/lane-detection-system)
 
 ---
 
