@@ -27,6 +27,7 @@ This project was developed for autonomous driving research, implementing multipl
 - **Strength**: Excellent for capturing long, thin structures
 
 ### 2. PolyLaneNet
+- **Paper**: [PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://arxiv.org/abs/2004.10924)
 - **Approach**: Polynomial regression for lane curves
 - **Strength**: Efficient representation using polynomial coefficients
 - **Use Case**: Best for smooth, curved lanes
